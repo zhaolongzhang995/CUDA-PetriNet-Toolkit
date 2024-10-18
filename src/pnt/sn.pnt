@@ -1,0 +1,36 @@
+P M PRE,POST NETZ 0:sn
+	1  3  4, 1
+	2  1  7 3, 6 2
+	3  1  6 4, 5 3
+	4  0  1, 2
+	5  0  2, 3
+	6  0  3, 4
+	7  0  5, 6
+	8  0  6, 7
+	9  0  7, 8
+	10  3  8, 5
+	11  1  8 2, 7 1
+@
+place nr. name capacity time
+	1: p1  oo  0
+	2: p10  oo  0
+	3: p11  oo  0
+	4: p2  oo  0
+	5: p3  oo  0
+	6: p4  oo  0
+	7: p5  oo  0
+	8: p6  oo  0
+	9: p7  oo  0
+	10: p8  oo  0
+	11: p9  oo  0
+@
+trans nr. name priority time
+	1: t1  0  0
+	2: t2  0  0
+	3: t3  0  0
+	4: t4  0  0
+	5: t5  0  0
+	6: t6  0  0
+	7: t7  0  0
+	8: t8  0  0
+@

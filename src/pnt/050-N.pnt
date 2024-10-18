@@ -1,0 +1,28 @@
+P M PRE,POST NETZ 0:{050-N}
+	1  50  5, 1
+	2  0  1, 3
+	3  0  6, 5
+	4  0  2, 6
+	5  0  3, 4
+	6  0  4, 2
+	7  25  5 4, 2 1
+	8  26  6, 3
+@
+place nr. name capacity time
+	1: Clients  oo  0
+	2: haveA  oo  0
+	3: haveA2  oo  0
+	4: haveA2andB  oo  0
+	5: haveAandB  oo  0
+	6: haveB  oo  0
+	7: resA  oo  0
+	8: resB  oo  0
+@
+trans nr. name priority time
+	1: lockA  0  0
+	2: lockA2  0  0
+	3: lockB  0  0
+	4: relA  0  0
+	5: relA2  0  0
+	6: relB  0  0
+@

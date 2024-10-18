@@ -1,0 +1,11 @@
+P M PRE,POST NETZ 0:SNtest
+	1  10 , 1
+	2  0  1,
+@
+place nr. name capacity time
+	1: p0  oo  0
+	2: p1  oo  0
+@
+trans nr. name priority time
+	1: t0  0  0
+@
